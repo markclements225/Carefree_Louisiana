@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Chelsea win the Champions League!",
+      "body": "Oh Roman do you know what that's worth...",
+      "author": "Mark Clements",
+      "id": 1
+    },
+    {
+      "title": "Assessing Chelsea's summer transfers",
+      "body": "LuBACKu arrives!",
+      "author": "Stephen Osborne",
+      "id": 2
+    },
+    {
+      "title": "Future Ballon d'Or winners?",
+      "body": "I am Jorginho's biggest fan",
+      "author": "Keegan Clanton",
+      "id": 3
+    },
+    {
+      "title": "Check out my Chelsea kit collection",
+      "body": "I've spent more on shirts than I did my engagement ring",
+      "author": "Ben Landry",
+      "id": 4
+    }
+  ]
+}
